@@ -12,6 +12,7 @@ button {
     background-color: #d8e6dc;
     box-shadow: 2px 4px 8px #cce1ef;
     border: none;
+    color: #333333;
 }
 
 #words {
