@@ -1,0 +1,25 @@
+body {
+    background-color: #f7f5f0;
+    text-align: center;
+    padding-top: 100px;
+    font-family: "Hiragino Maru Gothic ProN",sans-serif;
+}
+
+button {
+    font-size: 18px;
+    padding: 15px 30px;
+    border-radius: 12px;
+    background-color: #d8e6dc;
+    box-shadow: 2px 4px 8px #cce1ef;
+    border: none;
+}
+
+#words {
+    font-size: 22px;
+    margin-bottom: 50px;
+    min-height: 120px;
+    padding: 0 30px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
